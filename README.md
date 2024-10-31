@@ -1,4 +1,4 @@
-# BluetoothCTL_wrapper
+# BluetoothCTL
 A Bluetoothctl wrapper in Python
 
 This wrapper is inspired by the wrapper I saw based on ReachView from @egorf Egor Fedorov and also @dmeulen Danny van der Meulen  modification. I focused this version on functionality analysing the outuput of any commands: for each command sent, the output that came out is parsed to understand what happened. This work is inspired by
